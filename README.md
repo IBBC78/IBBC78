@@ -11,7 +11,7 @@ Paris, France
 
 I'm a Computer Science engineering student at CY Tech, currently working as a Full Stack Developer apprentice at Base for Music.
 
-My work focuses on backend development, data integration, and building applications used in production. I enjoy designing systems, understanding how their components interact, and solving problems involving data consistency, performance, and reliability.
+My work focuses on Fullstack development, data integration, and building applications used in production. I enjoy designing systems, understanding how their components interact, and solving problems involving data consistency, performance, and reliability.
 
 Alongside software engineering, I'm developing my knowledge of statistics, machine learning, and data analysis through my engineering studies.
 
